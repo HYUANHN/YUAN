@@ -1,0 +1,31 @@
+# Gradle
+.gradle/
+build/
+app/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration (SDK path is machine-specific)
+local.properties
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# Android build outputs
+*.apk
+*.aab
+*.ap_
+*.dex
+output.json
+
+# Logs
+*.log
+crash.log
+
+# Keystore & signing (never commit)
+*.keystore
+*.jks
+*.p12
+videobox.keystore

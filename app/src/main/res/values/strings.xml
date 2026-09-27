@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">影视YUAN</string>
+    <string name="home">首页</string>
+    <string name="category">分类</string>
+    <string name="favorite">收藏</string>
+    <string name="live">电视台</string>
+    <string name="settings">设置</string>
+    <string name="search_hint">搜索影片</string>
+    <string name="setting_source">播放源管理</string>
+    <string name="setting_source_desc">修改播放源接口、节点选择切换</string>
+    <string name="setting_history">播放历史</string>
+    <string name="setting_history_desc">清除播放历史</string>
+    <string name="setting_diag">诊断日志</string>
+    <string name="setting_diag_desc">仅在配合排查问题时开启</string>
+    <string name="setting_adblock">广告过滤</string>
+    <string name="setting_adblock_desc">拦截播放源内嵌广告</string>
+    <string name="version">版本 2.0.3</string>
+    <string name="disclaimer">所有数据来源于网络，本App不提供任何数据存储</string>
+    <string name="disclaimer_full">影视YUAN 免责声明\n\n本应用为个人学习与技术研究用途的开源项目，代码开源，不用于任何商业用途。\n\n1. 本应用本身不存储、不提供任何影视资源；所有影片数据、播放源、线路与内容均来自您自行配置的第三方公开采集站接口，其版权归各自权利人所有。\n\n2. 您应确保所配置的播放源及其内容符合所在地法律法规，并仅用于个人合法用途；请勿用于任何商业或侵权用途。\n\n3. 播放过程中可能出现的广告、失效线路、内容不符等情况均由第三方源决定，与本应用无关。\n\n4. 因使用本应用所引发的任何后果，由使用者自行承担。\n\n点击“同意并继续”即表示您已阅读并同意以上条款；如不同意，请立即退出并卸载本应用。</string>
+</resources>
