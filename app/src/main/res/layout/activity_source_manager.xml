@@ -36,7 +36,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="12dp"
         android:background="@drawable/bg_input"
-        android:hint="输入配置节点地址，如 https://node.mac-cms.com/"
+        android:hint="输入你自己的配置节点地址（应用不内置任何接口）"
         android:inputType="textUri"
         android:padding="12dp"
         android:textColor="@color/text_primary"
