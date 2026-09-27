@@ -76,8 +76,9 @@ public class SourceManagerActivity extends AppCompatActivity {
         if (prefill != null && !prefill.isEmpty()) {
             etUrl.setText(prefill);
         } else {
+            // 不预置任何默认接口地址，由用户自行填写
             String lastUrl = getSharedPreferences("videobox_prefs", MODE_PRIVATE)
-                    .getString("last_config_url", "https://node.mac-cms.com/");
+                    .getString("last_config_url", "");
             etUrl.setText(lastUrl);
         }
 
